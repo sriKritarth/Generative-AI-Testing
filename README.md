@@ -215,4 +215,3 @@ Perplexity.ai delivers an excellent first-use experience, with a beginner-friend
 
 ---
 
-Feel free to modify this file as needed. Let me know if you’d like any refinements! 🚀
