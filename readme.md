@@ -19,7 +19,7 @@ An AI-powered interview assistant built with LangChain that leverages GPT-4 and 
 ### Project Structure
   PART2: Mini Prompt Library/
    ├── test.ipynb    # Main Jupyter notebook containing the implementation
-   └── README.md     # This documentation file ``` 
+   └── README.md     # This documentation file 
    
 ### System Features
 
