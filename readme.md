@@ -17,10 +17,11 @@ This document logs observations from testing two Large Language Models (LLMs): O
 An AI-powered interview assistant built with LangChain that leverages GPT-4 and Ollama's llama3 models to conduct adaptive mock interviews. The system offers flexible customization through three key parameters: experience level (beginner/advanced), skill category (technical/creative/analytical), and conversation tone (formal/casual/funny). Each interview follows a structured format with five essential components: introduction, self-introduction questions, follow-up questions, detailed feedback, and closing remarks. The assistant supports both cloud-based (GPT-4) and local (llama3) model deployments, providing flexibility in implementation and resource usage.
 
 ### Project Structure
-  PART2: Mini Prompt Library/
+```plaintext
+PART2: Mini Prompt Library/
    ├── test.ipynb    # Main Jupyter notebook containing the implementation
-   └── README.md     # This documentation file 
-   
+   └── README.md     # This documentation file
+```
 ### System Features
 
 #### Interview Customization Parameters
